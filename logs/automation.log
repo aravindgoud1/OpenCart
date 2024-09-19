@@ -1,0 +1,282 @@
+18:00:51.546 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:00:51.555 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+18:00:51.557 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:00:51.557 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:00:51.558 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:00:51.558 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:00:51.559 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:00:51.559 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:00:51.563 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+18:00:51.576 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+18:00:51.578 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:00:51.578 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:00:51.580 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:00:51.580 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:00:51.582 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:00:51.582 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:00:51.584 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:00:51.584 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:00:51.584 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:00:51.584 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:00:51.585 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:00:51.586 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:00:51.586 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:00:51.586 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:00:51.587 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:00:51.587 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:00:51.589 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:00:51.589 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:00:51.589 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:00:51.590 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+18:00:51.598 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\AppData\Local\Temp\testng-eclipse--1160631964\testng-customsuite.xml
+
+18:00:51.624 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+18:01:05.631 [main] INFO  testCases.AccountRegistrationTest - **** starting AccountRegistrationTest *****
+18:01:05.788 [main] INFO  testCases.AccountRegistrationTest - Clicked on clickMyAccount link
+18:01:06.861 [main] INFO  testCases.AccountRegistrationTest - clicked on clickRegister link 
+18:01:06.861 [main] INFO  testCases.AccountRegistrationTest - providing Customer details
+18:01:08.789 [main] INFO  testCases.AccountRegistrationTest - validating expected message
+18:01:09.470 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@68fe48d7: 47 ms
+18:01:09.577 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@184fb68d: 107 ms
+18:01:09.579 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@71d8cfe7: 2 ms
+18:01:09.593 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@11b377c5: 14 ms
+18:01:09.609 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4dc8c0ea: 16 ms
+18:01:09.656 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4aedaf61: 47 ms
+18:01:09.656 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@173797f0: 0 ms
+20:21:12.054 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\master.xml
+
+20:21:22.308 [main] INFO  testCases.AccountRegistrationTest - **** starting AccountRegistrationTest *****
+20:21:22.769 [main] INFO  testCases.AccountRegistrationTest - Clicked on clickMyAccount link
+20:21:23.465 [main] INFO  testCases.AccountRegistrationTest - clicked on clickRegister link 
+20:21:23.475 [main] INFO  testCases.AccountRegistrationTest - providing Customer details
+20:21:25.615 [main] INFO  testCases.AccountRegistrationTest - validating expected message
+20:21:59.080 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\master.xml
+
+20:22:14.373 [main] INFO  testCases.AccountRegistrationTest - **** starting AccountRegistrationTest *****
+20:22:14.748 [main] INFO  testCases.AccountRegistrationTest - Clicked on clickMyAccount link
+20:22:15.705 [main] INFO  testCases.AccountRegistrationTest - clicked on clickRegister link 
+20:22:15.710 [main] INFO  testCases.AccountRegistrationTest - providing Customer details
+20:22:17.803 [main] INFO  testCases.AccountRegistrationTest - validating expected message
+20:23:03.908 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\master.xml
+
+20:24:57.195 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\master.xml
+
+20:25:12.529 [main] INFO  testCases.AccountRegistrationTest - **** starting AccountRegistrationTest *****
+20:25:13.498 [main] INFO  testCases.AccountRegistrationTest - Clicked on clickMyAccount link
+20:25:14.532 [main] INFO  testCases.AccountRegistrationTest - clicked on clickRegister link 
+20:25:14.536 [main] INFO  testCases.AccountRegistrationTest - providing Customer details
+20:25:16.475 [main] INFO  testCases.AccountRegistrationTest - validating expected message
+20:31:45.713 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\master.xml
+
+20:31:54.133 [main] INFO  testCases.AccountRegistrationTest - **** starting AccountRegistrationTest *****
+20:31:54.500 [main] INFO  testCases.AccountRegistrationTest - Clicked on clickMyAccount link
+20:31:55.243 [main] INFO  testCases.AccountRegistrationTest - clicked on clickRegister link 
+20:31:55.249 [main] INFO  testCases.AccountRegistrationTest - providing Customer details
+20:31:57.292 [main] INFO  testCases.AccountRegistrationTest - validating expected message
+20:32:22.015 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\master.xml
+
+20:32:31.563 [main] INFO  testCases.AccountRegistrationTest - **** starting AccountRegistrationTest *****
+20:32:32.018 [main] INFO  testCases.AccountRegistrationTest - Clicked on clickMyAccount link
+20:32:32.693 [main] INFO  testCases.AccountRegistrationTest - clicked on clickRegister link 
+20:32:32.693 [main] INFO  testCases.AccountRegistrationTest - providing Customer details
+20:32:34.245 [main] INFO  testCases.AccountRegistrationTest - validating expected message
+20:32:58.541 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\master.xml
+
+20:33:03.086 [main] INFO  testCases.AccountRegistrationTest - **** starting AccountRegistrationTest *****
+20:33:03.369 [main] INFO  testCases.AccountRegistrationTest - Clicked on clickMyAccount link
+20:33:04.097 [main] INFO  testCases.AccountRegistrationTest - clicked on clickRegister link 
+20:33:04.099 [main] INFO  testCases.AccountRegistrationTest - providing Customer details
+20:33:06.220 [main] INFO  testCases.AccountRegistrationTest - validating expected message
+20:42:07.742 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\crossBrowserTesting.xml
+
+20:42:12.993 [main] INFO  testCases.AccountRegistrationTest - **** starting AccountRegistrationTest *****
+20:42:13.446 [main] INFO  testCases.AccountRegistrationTest - Clicked on clickMyAccount link
+20:42:14.216 [main] INFO  testCases.AccountRegistrationTest - clicked on clickRegister link 
+20:42:14.219 [main] INFO  testCases.AccountRegistrationTest - providing Customer details
+20:42:16.039 [main] INFO  testCases.AccountRegistrationTest - validating expected message
+20:42:22.244 [main] INFO  testCases.AccountRegistrationTest - **** starting AccountRegistrationTest *****
+20:42:22.428 [main] INFO  testCases.AccountRegistrationTest - Clicked on clickMyAccount link
+20:42:23.137 [main] INFO  testCases.AccountRegistrationTest - clicked on clickRegister link 
+20:42:23.139 [main] INFO  testCases.AccountRegistrationTest - providing Customer details
+20:42:24.662 [main] INFO  testCases.AccountRegistrationTest - validating expected message
+20:42:32.321 [main] INFO  testCases.AccountRegistrationTest - **** starting AccountRegistrationTest *****
+20:42:32.742 [main] INFO  testCases.AccountRegistrationTest - Clicked on clickMyAccount link
+20:42:33.407 [main] INFO  testCases.AccountRegistrationTest - clicked on clickRegister link 
+20:42:33.407 [main] INFO  testCases.AccountRegistrationTest - providing Customer details
+20:42:35.437 [main] INFO  testCases.AccountRegistrationTest - validating expected message
+20:44:32.510 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\parllelTesting.xml
+
+20:44:43.635 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - **** starting AccountRegistrationTest *****
+20:44:45.885 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - Clicked on clickMyAccount link
+20:44:46.755 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - **** starting AccountRegistrationTest *****
+20:44:47.829 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - Clicked on clickMyAccount link
+20:44:49.912 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - clicked on clickRegister link 
+20:44:49.921 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - providing Customer details
+20:44:50.081 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - clicked on clickRegister link 
+20:44:50.096 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - providing Customer details
+20:44:55.859 [TestNG-tests-3] INFO  testCases.AccountRegistrationTest - **** starting AccountRegistrationTest *****
+20:44:56.289 [TestNG-tests-3] INFO  testCases.AccountRegistrationTest - Clicked on clickMyAccount link
+20:44:57.135 [TestNG-tests-3] INFO  testCases.AccountRegistrationTest - clicked on clickRegister link 
+20:44:57.138 [TestNG-tests-3] INFO  testCases.AccountRegistrationTest - providing Customer details
+20:44:57.969 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - validating expected message
+20:44:59.468 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - validating expected message
+20:45:00.300 [TestNG-tests-3] INFO  testCases.AccountRegistrationTest - validating expected message
+21:08:47.682 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\master.xml
+
+21:08:54.283 [main] INFO  testCases.AccountRegistrationTest - **** starting AccountRegistrationTest *****
+21:08:54.664 [main] INFO  testCases.AccountRegistrationTest - Clicked on clickMyAccount link
+21:08:55.419 [main] INFO  testCases.AccountRegistrationTest - clicked on clickRegister link 
+21:08:55.424 [main] INFO  testCases.AccountRegistrationTest - providing Customer details
+21:08:56.882 [main] INFO  testCases.AccountRegistrationTest - validating expected message
+22:58:30.469 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\master.xml
+
+22:58:37.288 [main] INFO  testCases.AccountRegistrationTest - **** starting AccountRegistrationTest *****
+22:58:37.496 [main] INFO  testCases.AccountRegistrationTest - Clicked on clickMyAccount link
+22:58:38.287 [main] INFO  testCases.AccountRegistrationTest - clicked on clickRegister link 
+22:58:38.290 [main] INFO  testCases.AccountRegistrationTest - providing Customer details
+22:58:40.668 [main] INFO  testCases.AccountRegistrationTest - validating expected message
+22:58:46.406 [main] INFO  testCases.LoginTest - ****** Startign TC_002_LoginTest *****
+22:58:49.629 [main] INFO  testCases.LoginTest - ****** Finished TC_002_LoginTest *****
+23:02:18.481 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\master.xml
+
+23:02:22.396 [main] INFO  testCases.LoginTest - ****** Startign TC_002_LoginTest *****
+23:02:56.026 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\master.xml
+
+23:02:59.267 [main] INFO  testCases.LoginTest - ****** Startign TC_002_LoginTest *****
+23:03:23.643 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\master.xml
+
+23:03:32.355 [main] INFO  testCases.AccountRegistrationTest - **** starting AccountRegistrationTest *****
+23:03:43.068 [main] INFO  testCases.AccountRegistrationTest - Test Failed...
+23:03:49.385 [main] INFO  testCases.LoginTest - ****** Startign TC_002_LoginTest *****
+23:04:18.368 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\master.xml
+
+23:04:22.700 [main] INFO  testCases.AccountRegistrationTest - **** starting AccountRegistrationTest *****
+23:04:33.625 [main] INFO  testCases.AccountRegistrationTest - Test Failed...
+23:04:36.169 [main] INFO  testCases.LoginTest - ****** Startign TC_002_LoginTest *****
+23:05:12.309 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\master.xml
+
+23:05:19.868 [main] INFO  testCases.AccountRegistrationTest - **** starting AccountRegistrationTest *****
+23:05:20.008 [main] INFO  testCases.AccountRegistrationTest - Clicked on clickMyAccount link
+23:05:21.175 [main] INFO  testCases.AccountRegistrationTest - clicked on clickRegister link 
+23:05:21.179 [main] INFO  testCases.AccountRegistrationTest - providing Customer details
+23:05:23.009 [main] INFO  testCases.AccountRegistrationTest - validating expected message
+23:05:48.708 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\master.xml
+
+23:05:56.624 [main] INFO  testCases.LoginTest - ****** Startign TC_002_LoginTest *****
+23:05:58.552 [main] INFO  testCases.LoginTest - ****** Finished TC_002_LoginTest *****
+23:06:44.412 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\master.xml
+
+23:06:49.352 [main] INFO  testCases.LoginTest - ****** Startign TC_002_LoginTest *****
+23:10:30.601 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\master.xml
+
+23:10:35.209 [main] INFO  testCases.LoginTest - ****** Startign TC_002_LoginTest *****
+23:10:37.174 [main] INFO  testCases.LoginTest - ****** Finished TC_002_LoginTest *****
+00:42:00.804 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\master.xml
+
+00:42:14.048 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+00:42:20.262 [main] INFO  testCases.LoginDDT - ***** Finished TC_003_LoginDDT ******
+00:42:20.274 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+00:42:34.970 [main] INFO  testCases.LoginDDT - ***** Finished TC_003_LoginDDT ******
+00:42:34.970 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+00:42:40.764 [main] INFO  testCases.LoginDDT - ***** Finished TC_003_LoginDDT ******
+00:49:07.485 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\master.xml
+
+00:49:16.138 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+00:49:22.335 [main] INFO  testCases.LoginDDT - ***** Finished TC_003_LoginDDT ******
+00:49:22.335 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+00:49:37.113 [main] INFO  testCases.LoginDDT - ***** Finished TC_003_LoginDDT ******
+00:49:37.113 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+00:49:42.412 [main] INFO  testCases.LoginDDT - ***** Finished TC_003_LoginDDT ******
+14:51:25.900 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\grouping.xml
+
+14:52:43.577 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\grouping.xml
+
+14:56:06.319 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\grouping.xml
+
+14:56:32.078 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\master.xml
+
+14:56:40.350 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+14:56:45.963 [main] INFO  testCases.LoginDDT - ***** Finished TC_003_LoginDDT ******
+14:56:45.963 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+14:56:45.993 [main] INFO  testCases.LoginDDT - ***** stating TC_003_LoginDDT ******
+15:01:08.538 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\grouping.xml
+
+15:01:13.496 [main] INFO  testCases.AccountRegistrationTest - **** starting AccountRegistrationTest *****
+15:01:13.735 [main] INFO  testCases.AccountRegistrationTest - Clicked on clickMyAccount link
+15:01:14.696 [main] INFO  testCases.AccountRegistrationTest - clicked on clickRegister link 
+15:01:14.699 [main] INFO  testCases.AccountRegistrationTest - providing Customer details
+15:01:16.485 [main] INFO  testCases.AccountRegistrationTest - validating expected message
+15:01:20.318 [main] INFO  testCases.LoginTest - ****** Startign TC_002_LoginTest *****
+15:01:22.048 [main] INFO  testCases.LoginTest - ****** Finished TC_002_LoginTest *****
+16:48:02.671 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\master.xml
+
+16:48:10.266 [main] INFO  testCases.AccountRegistrationTest - **** starting AccountRegistrationTest *****
+16:48:10.662 [main] INFO  testCases.AccountRegistrationTest - Clicked on clickMyAccount link
+16:48:11.349 [main] INFO  testCases.AccountRegistrationTest - clicked on clickRegister link 
+16:48:11.353 [main] INFO  testCases.AccountRegistrationTest - providing Customer details
+16:48:12.801 [main] INFO  testCases.AccountRegistrationTest - validating expected message
+16:48:16.653 [main] INFO  testCases.LoginTest - ****** Startign TC_002_LoginTest *****
+16:48:18.375 [main] INFO  testCases.LoginTest - ****** Finished TC_002_LoginTest *****
+18:08:59.603 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\master.xml
+
+18:09:19.080 [main] INFO  testCases.LoginTest - ****** Startign TC_002_LoginTest *****
+18:11:21.677 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\master.xml
+
+18:11:27.806 [main] INFO  testCases.AccountRegistrationTest - **** starting AccountRegistrationTest *****
+18:11:28.312 [main] INFO  testCases.AccountRegistrationTest - Clicked on clickMyAccount link
+18:11:33.665 [main] INFO  testCases.AccountRegistrationTest - clicked on clickRegister link 
+18:11:33.671 [main] INFO  testCases.AccountRegistrationTest - providing Customer details
+18:11:35.507 [main] INFO  testCases.AccountRegistrationTest - validating expected message
+18:11:39.682 [main] INFO  testCases.LoginTest - ****** Startign TC_002_LoginTest *****
+18:11:41.613 [main] INFO  testCases.LoginTest - ****** Finished TC_002_LoginTest *****
+18:23:42.992 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\master.xml
+
+18:23:49.258 [main] INFO  testCases.AccountRegistrationTest - **** starting AccountRegistrationTest *****
+18:23:49.442 [main] INFO  testCases.AccountRegistrationTest - Clicked on clickMyAccount link
+18:23:50.278 [main] INFO  testCases.AccountRegistrationTest - clicked on clickRegister link 
+18:23:50.281 [main] INFO  testCases.AccountRegistrationTest - providing Customer details
+18:23:52.464 [main] INFO  testCases.AccountRegistrationTest - validating expected message
+18:23:57.911 [main] INFO  testCases.LoginTest - ****** Startign TC_002_LoginTest *****
+18:25:14.211 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravi\eclipse-workspace\OpenCart\test-output\testng-failed.xml
+
+18:25:20.177 [main] INFO  testCases.LoginTest - ****** Startign TC_002_LoginTest *****
+18:25:22.789 [main] INFO  testCases.LoginTest - ****** Finished TC_002_LoginTest *****
+15:31:11.153 [main] INFO  testCases.AccountRegistrationTest - **** starting AccountRegistrationTest *****
+15:31:11.407 [main] INFO  testCases.AccountRegistrationTest - Clicked on clickMyAccount link
+15:31:12.795 [main] INFO  testCases.AccountRegistrationTest - clicked on clickRegister link 
+15:31:12.819 [main] INFO  testCases.AccountRegistrationTest - providing Customer details
+15:31:14.426 [main] INFO  testCases.AccountRegistrationTest - validating expected message
+15:31:18.512 [main] INFO  testCases.LoginTest - ****** Startign TC_002_LoginTest *****
+15:31:20.568 [main] INFO  testCases.LoginTest - ****** Finished TC_002_LoginTest *****
